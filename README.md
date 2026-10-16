@@ -81,24 +81,5 @@ This project was inspired by real-world food delivery operations and simulates h
 
 ---
 
-## 🧑‍💻 Author
 
-**Shruti**  
-Data Analyst | Business Analyst | Power BI Enthusiast
-[LinkedIn](https://linkedin.com/in/shrutivnair) | [GitHub](https://github.com/ShrutiVNair)
-
----
-
-## 📥 Clone & Explore
-
-1. Download `Swiggy_Analysis.pbix` from this repository.
-2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-3. Interact with slicers, filters, and visuals to explore insights.
-4. Optional: Export as PDF or PPT for your portfolio or job applications.
-
----
-
-## 📬 Contact
-
-📩 Email: shrutinair.v.31@gmail.com
 
